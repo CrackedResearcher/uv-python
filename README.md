@@ -48,5 +48,28 @@ The cool thing? UV automatically creates a virtual environment for you the first
 
 That's pretty much it! Give it a try and say goodbye to slow package installations. Happy coding lol! 🎉
 
+If you prefer images:
+
+Step 1:
+<img width="585" alt="Screenshot 2025-02-17 at 5 38 14 PM" src="https://github.com/user-attachments/assets/9de5a21b-5c53-4478-96d9-e7a683edf80a" />
+
+Step 2:
+
+Files are automatically created
+<img width="585" alt="Screenshot 2025-02-17 at 5 39 55 PM" src="https://github.com/user-attachments/assets/600e4af4-d446-48a4-96b8-22750755ed0b" />
+
+Step 3:
+
+To run type ```uv run main.py```
+You will notice a virtual environment is automatically created for you. And the results as well. 
+
+<img width="585" alt="Screenshot 2025-02-17 at 5 40 39 PM" src="https://github.com/user-attachments/assets/d184e3ca-96ca-47f8-bebd-427228bbb048" />
+
+Additonal: to install packages:
+
+<img width="585" alt="Screenshot 2025-02-17 at 5 43 01 PM" src="https://github.com/user-attachments/assets/80c12cc6-a12d-4012-8c89-1a96920c87e1" />
+
+Thats it - that all you need ot replace pip with uv..
+
 ---
 Made with ❤️ by the UV community
