@@ -8,6 +8,7 @@ Built by astral.sh
 First things first, let's create a new project. Just jump into your terminal and do this:
 
 ```bash
+pip install uv
 uv init
 ```
 
