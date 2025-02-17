@@ -1,9 +1,7 @@
-```markdown:/Users/sneharaj/Desktop/BuildBuildBuild/uv-python/README.md
-# Hey there! 👋 Let me show you UV - The Super Fast Python Package Manager
+Yo! Ever got frustrated waiting for pip to install your packages? Well, check this out - UV is this awesome package manager that's like 10x faster than pip because it's built in Rust. Let me show you how to use it!
 
 Built by astral.sh
 
-Yo! Ever got frustrated waiting for pip to install your packages? Well, check this out - UV is this awesome package manager that's like 10x faster than pip because it's built in Rust. Let me show you how to use it!
 
 ## Getting Startedd
 
@@ -52,4 +50,3 @@ That's pretty much it! Give it a try and say goodbye to slow package installatio
 
 ---
 Made with ❤️ by the UV community
-```
